@@ -1,7 +1,7 @@
 import random
 
 hang = ["""
-H A N G M A N - Nigga Edition
+H A N G M A N
 
    +---+
    |   |
@@ -10,7 +10,7 @@ H A N G M A N - Nigga Edition
        |
        |
 =========""", """
-H A N G M A N - Nigga Edition
+H A N G M A N
 
   +---+
   |   |
@@ -19,7 +19,7 @@ H A N G M A N - Nigga Edition
       |
       |
 =========""", """
-H A N G M A N - Nigga Edition
+H A N G M A N
 
   +---+
   |   |
@@ -28,7 +28,7 @@ H A N G M A N - Nigga Edition
       |
       |
 =========""", """
-H A N G M A N - Nigga Edition
+H A N G M A N
 
   +---+
   |   |
@@ -37,7 +37,7 @@ H A N G M A N - Nigga Edition
       |
       |
 =========""", """
-H A N G M A N - Nigga Edition
+H A N G M A N
 
   +---+
   |   |
@@ -46,7 +46,7 @@ H A N G M A N - Nigga Edition
       |
       |
 =========""", """
-H A N G M A N - Nigga Edition
+H A N G M A N
 
   +---+
   |   |
@@ -55,7 +55,7 @@ H A N G M A N - Nigga Edition
  /    |
       |
 =========""", """
-H A N G M A N - Nigga Edition
+H A N G M A N
 
   +---+
   |   |
@@ -67,7 +67,7 @@ H A N G M A N - Nigga Edition
 
 
 def getRandomWord():
-    words = ['black', 'nigga', 'blm', 'cops', 'weed', 'cocaine', 'smoking']
+    words = ['beef', 'fruit', 'apple', 'car', 'weapon', 'python',]
 
     word = random.choice(words)
     return word
